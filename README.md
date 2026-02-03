@@ -3,7 +3,7 @@
 ##  Project Overview
 This dashboard presents key insights from an online retail dataset, focusing on revenue trends, customer behavior, and geographical distribution of sales. It was created as part of the **TATA Virtual Internship: Data Visualisation** program.
 
-## 🎯Key Insights & Visualizations
+## Key Insights & Visualizations
 
 ### 1. **Monthly Revenue Trend Analysis for 2011**
 - **Metric**: Sum of Quantity sold per month
