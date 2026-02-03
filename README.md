@@ -41,21 +41,21 @@ This dashboard presents key insights from an online retail dataset, focusing on 
 - **Geographical reference**: Includes major oceans (Arctic, Pacific, Atlantic, Indian)
 - **Purpose**: Visualize geographical distribution of product demand across continents
 
-## 🛠️ Data Characteristics
+## Data Characteristics
 - **Dataset**: Online Retail transactions
 - **Primary metric**: Revenue (in millions)
 - **Secondary metrics**: Quantity sold, Customer counts, Product counts
 - **Geographical scope**: Global with UK excluded from international analyses
 - **Timeframe**: 2011 (for trend analysis)
 
-## 💡 Business Applications
+## Business Applications
 1. **Revenue Optimization**: Identify peak months for inventory and marketing planning
 2. **Customer Segmentation**: Focus retention efforts on top revenue-generating customers
 3. **Market Expansion**: Prioritize countries with highest revenue potential
 4. **Geographic Strategy**: Allocate resources based on regional demand patterns
 5. **Performance Benchmarking**: Track key metrics against industry standards
 
-## 📈 Visual Design Principles Applied
+## Visual Design Principles Applied
 - **Color coding**: Consistent use of color scales for revenue representation
 - **Comparative visualization**: Bar charts for ranking, heatmaps for geographical distribution
 - **Data exclusion**: UK excluded from international analyses to focus on export markets
